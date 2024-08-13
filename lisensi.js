@@ -13,7 +13,3 @@ function checkUserLicense(licenseKey) {
       window.location.href = Lisensi; 
     });
 }
-
-window.onload = function() {
-  checkUserLicense(licenseKey);
-};
